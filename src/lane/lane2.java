@@ -23,10 +23,6 @@ public class lane2 extends javax.swing.JFrame implements ActionListener{
     ImageIcon icon=new ImageIcon("lan.jpg");
     
     //for admin creatimg creation(runs only first time)
-    
-    
-    
-    
     public lane2() throws ClassNotFoundException, SQLException {
         initComponents();
         this.setIconImage(icon.getImage());
