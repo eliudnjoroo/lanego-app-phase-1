@@ -768,7 +768,7 @@ public class lane2 extends javax.swing.JFrame implements ActionListener{
         } catch (ClassNotFoundException ex) {
             Logger.getLogger(lane2.class.getName()).log(Level.SEVERE, null, ex);
         }
-    }//GEN-LAST:event_caaActionPerformed
+    }//GEN-LAST:    event_caaActionPerformed
 
     public static void main (String args[]) throws SQLException, ClassNotFoundException {
         
